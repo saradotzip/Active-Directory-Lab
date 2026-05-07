@@ -1,7 +1,6 @@
 # Active Directory Home Lab — Windows Server 2025
 
-A hands-on home lab simulating a full enterprise Active Directory environment built from scratch on Windows Server 2025. This project covers everything from domain controller promotion and DNS configuration to OU structure, security group creation, user provisioning, Group Policy enforcement, and client machine domain-joining — mirroring real-world identity and access management workflows. I already did a version of this last year (2025) but this is more updated!
-
+A hands-on home lab simulating a full enterprise Active Directory environment built from scratch on Windows Server 2025. This project covers everything from domain controller promotion and DNS configuration to OU structure, security group creation, user provisioning, Group Policy enforcement, and client machine domain-joining — mirroring real-world identity and access management workflows.
 
 ---
 
